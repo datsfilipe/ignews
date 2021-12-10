@@ -15,6 +15,12 @@
   - Prismic CMS
 
 
+**Deploy**
+
+[Click here to see deployment](ignews-beige.vercel.app).
+
+  - Obs: 
+    It's not running checkout with Stripe for now.
 
 **Running it**
 
