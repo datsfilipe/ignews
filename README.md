@@ -17,10 +17,10 @@
 
 **Deploy**
 
-[Click here to see deployment](ignews-beige.vercel.app).
+[Click here to see deployment](https://ignews-beige.vercel.app).
 
   - Obs: 
-    It's not running checkout with Stripe for now.
+    it's not running checkout with Stripe for now.
 
 **Running it**
 
