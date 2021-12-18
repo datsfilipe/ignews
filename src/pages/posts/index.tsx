@@ -9,9 +9,9 @@ import Link from 'next/link'
 
 type Post = {
   slug: string;
-  title: string,
-  excerpt: string,
-  updatedAt: string
+  title: string;
+  excerpt: string;
+  updatedAt: string;
 }
 
 interface PostsProps {
