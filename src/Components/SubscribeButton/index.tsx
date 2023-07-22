@@ -37,7 +37,7 @@ export function SubscribeButton () {
       type="button"
       className={styles.subscribeButton}
       onClick={handleSubscribe}
-      disabled
+      disabled={!session}
     >
       Subscribe now
     </button>
